@@ -12,6 +12,9 @@ a {
   color: #900000;
   text-decoration: none;
   }
+acronym {
+  text-decoration: underline;
+  }
 #wrapper {
   margin: 0 auto;
   width: 960px;
@@ -32,6 +35,9 @@ a {
   }
 #content p {
   text-align: justify;
+  }
+#content ul {
+  margin-left: 2.5em;
   }
 #content h2, #content h3, #content p {
   margin-bottom: 0.5em;
