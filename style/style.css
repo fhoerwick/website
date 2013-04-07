@@ -28,6 +28,10 @@ a {
   font-variant: small-caps;
   }
 #content {
+  min-height: 25em;
+  }
+#content p {
+  text-align: justify;
   }
 #content h2, #content h3, #content p {
   margin-bottom: 0.5em;
